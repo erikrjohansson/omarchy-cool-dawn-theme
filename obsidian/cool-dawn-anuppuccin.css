@@ -1,0 +1,58 @@
+/* @settings
+name: Cool Dawn (AnuPpuccin companion)
+id: anuppuccin-cool-dawn
+settings:
+  -
+    id: anp-cool-dawn
+    title: Cool Dawn palette
+    description: Applies the Cool Dawn Omarchy theme palette to AnuPpuccin (dark mode only).
+    type: class-toggle
+*/
+
+/*
+ * Cool Dawn palette for the AnuPpuccin Obsidian theme
+ * https://github.com/erikrjohansson/omarchy-cool-dawn-theme
+ *
+ * Only the surfaces and neutral text colours come from the Cool Dawn theme
+ * (colors.toml). The 14 accent colours (rosewater ... lavender), which drive
+ * headings, callouts, Rainbow Folders, tags, etc., are intentionally left
+ * identical to AnuPpuccin's "Material Mint" flavour so that coloured text keeps
+ * its contrast and meaning. overlay0 is not part of colors.toml and is
+ * interpolated between hyprland_inactive_border and hyprland_active_border.
+ *
+ * Requires: the AnuPpuccin theme + the "Style Settings" plugin (for the toggle).
+ * Independent of AnuPpuccin's own extended-colorschemes.css snippet.
+ */
+body.theme-dark.anp-cool-dawn,
+.anp-cool-dawn .themed-color-wrapper > .theme-dark {
+  --ctp-ext-rosewater: 245, 224, 220; /* Material Mint */
+  --ctp-ext-flamingo: 242, 205, 205; /* Material Mint */
+  --ctp-ext-pink: 245, 194, 231; /* Material Mint */
+  --ctp-ext-mauve: 203, 166, 247; /* Material Mint */
+  --ctp-ext-red: 243, 139, 168; /* Material Mint */
+  --ctp-ext-maroon: 235, 160, 172; /* Material Mint */
+  --ctp-ext-peach: 250, 179, 135; /* Material Mint */
+  --ctp-ext-yellow: 249, 226, 175; /* Material Mint */
+  --ctp-ext-green: 166, 227, 161; /* Material Mint */
+  --ctp-ext-teal: 189, 214, 219; /* Material Mint */
+  --ctp-ext-sky: 137, 220, 235; /* Material Mint */
+  --ctp-ext-sapphire: 116, 199, 236; /* Material Mint */
+  --ctp-ext-blue: 135, 176, 249; /* Material Mint */
+  --ctp-ext-lavender: 180, 190, 254; /* Material Mint */
+  --ctp-ext-text: 240, 245, 238; /* #F0F5EE */
+  --ctp-ext-subtext1: 223, 232, 224; /* #DFE8E0 */
+  --ctp-ext-subtext0: 205, 222, 208; /* #CDDED0 */
+  --ctp-ext-overlay2: 176, 195, 183; /* #B0C3B7 */
+  --ctp-ext-overlay1: 138, 167, 150; /* #8AA796 */
+  --ctp-ext-overlay0: 107, 130, 117; /* #6B8275 */
+  --ctp-ext-surface2: 82, 102, 91; /* #52665B */
+  --ctp-ext-surface1: 70, 89, 79; /* #46594F */
+  --ctp-ext-surface0: 49, 61, 56; /* #313D38 */
+  --ctp-ext-base: 38, 48, 45; /* #26302D */
+  --ctp-ext-mantle: 31, 39, 36; /* #1F2724 */
+  --ctp-ext-crust: 24, 31, 29; /* #181F1D */
+}
+
+body.theme-dark.anp-cool-dawn {
+  --ctp-accent: 169, 198, 183;
+}
