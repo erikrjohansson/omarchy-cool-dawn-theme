@@ -1,15 +1,15 @@
 [bar]
-background = "#313D38"
+background = "#2C3B34"
 background-alpha = 0.65
 text = "#DFE8E0"
-active = "#A9C6B7"
+active = "#A4CAB6"
 scale-with-font = true
 size-horizontal = 26
 size-vertical = 28
 
 [hyprland]
-active-border = "#8AA796"
-active-border-foreground = "#8AA796"
+active-border = "#85AA95"
+active-border-foreground = "#85AA95"
 
 [controls]
 normal-color = "foreground"
@@ -43,7 +43,7 @@ scale-with-font = true
 base-size = 12
 
 [popups]
-background = "#313D38"
+background = "#2C3B34"
 background-alpha = 0.88
 text = "#DFE8E0"
 border = "#52665B"
@@ -51,28 +51,28 @@ border-alpha = 1.0
 border-width = 1
 
 [tooltip]
-background = "#313D38"
+background = "#2C3B34"
 background-alpha = 0.88
 text = "#DFE8E0"
 border = "#52665B"
 border-alpha = 1.0
 
 [notifications]
-background = "#313D38"
+background = "#2C3B34"
 background-alpha = 0.88
 text = "#DFE8E0"
 border = "#52665B"
 border-alpha = 1.0
 border-width = 1
-countdown = "#A9C6B7"
+countdown = "#A4CAB6"
 
 [launcher]
-background = "#313D38"
+background = "#2C3B34"
 background-alpha = 0.88
 text = "#DFE8E0"
 border = "#52665B"
 border-alpha = 1.0
-scrim = "#181F1D"
+scrim = "#151E1A"
 scrim-alpha = 0.35
 selected-background = "#46594F"
 selected-background-alpha = 1.0
@@ -81,12 +81,12 @@ selected-border = "foreground"
 selected-border-alpha = 0.35
 
 [menu]
-background = "#313D38"
+background = "#2C3B34"
 background-alpha = 0.88
 text = "#DFE8E0"
 border = "#52665B"
 border-alpha = 1.0
-scrim = "#181F1D"
+scrim = "#151E1A"
 scrim-alpha = 0.35
 selected-background = "#46594F"
 selected-background-alpha = 1.0
@@ -95,32 +95,32 @@ selected-border = "foreground"
 selected-border-alpha = 0.35
 
 [polkit]
-background = "#313D38"
+background = "#2C3B34"
 background-alpha = 0.88
 text = "#DFE8E0"
 text-error = "#D9A39E"
 border = "hyprland.active-border"
 border-error = "#D9A39E"
 border-alpha = 1.0
-scrim = "#181F1D"
+scrim = "#151E1A"
 scrim-alpha = 0.5
-accent = "#A9C6B7"
+accent = "#A4CAB6"
 
 [lock]
-background = "#26302D"
+background = "#212F28"
 background-alpha = 0.88
 text = "#DFE8E0"
 placeholder = "#B0C3B7"
 text-error = "#D9A39E"
 border = "#52665B"
-border-active = "#A9C6B7"
+border-active = "#A4CAB6"
 border-error = "#D9A39E"
 border-alpha = 1.0
-selection = "#A9C6B7"
+selection = "#A4CAB6"
 selection-alpha = 0.15
 
 [image-picker]
-scrim = "#181F1D"
+scrim = "#151E1A"
 scrim-alpha = 0.5
 text = "#DFE8E0"
 selected-border = "foreground"

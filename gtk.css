@@ -1,69 +1,69 @@
 /* Cool Dawn — coordinated mist surfaces and accents for GTK 3 / GTK 4. */
-@define-color window_bg_color #26302D;
+@define-color window_bg_color #212F28;
 @define-color window_fg_color #DFE8E0;
-@define-color view_bg_color #26302D;
+@define-color view_bg_color #212F28;
 @define-color view_fg_color #DFE8E0;
-@define-color headerbar_bg_color #313D38;
+@define-color headerbar_bg_color #2C3B34;
 @define-color headerbar_fg_color #DFE8E0;
-@define-color headerbar_backdrop_color #313D38;
+@define-color headerbar_backdrop_color #2C3B34;
 @define-color headerbar_border_color #52665B;
 @define-color headerbar_shade_color rgba(0, 0, 0, 0.06);
-@define-color sidebar_bg_color #313D38;
-@define-color sidebar_fg_color #A9C6B7;
-@define-color sidebar_backdrop_color #313D38;
+@define-color sidebar_bg_color #2C3B34;
+@define-color sidebar_fg_color #A4CAB6;
+@define-color sidebar_backdrop_color #2C3B34;
 @define-color sidebar_border_color #52665B;
 @define-color sidebar_shade_color rgba(0, 0, 0, 0.06);
-@define-color secondary_sidebar_bg_color #313D38;
-@define-color secondary_sidebar_fg_color #A9C6B7;
-@define-color secondary_sidebar_backdrop_color #313D38;
+@define-color secondary_sidebar_bg_color #2C3B34;
+@define-color secondary_sidebar_fg_color #A4CAB6;
+@define-color secondary_sidebar_backdrop_color #2C3B34;
 @define-color secondary_sidebar_border_color #52665B;
-@define-color card_bg_color #313D38;
+@define-color card_bg_color #2C3B34;
 @define-color card_fg_color #DFE8E0;
 @define-color card_shade_color rgba(0, 0, 0, 0.06);
-@define-color popover_bg_color #313D38;
+@define-color popover_bg_color #2C3B34;
 @define-color popover_fg_color #DFE8E0;
 @define-color popover_shade_color rgba(0, 0, 0, 0.10);
-@define-color dialog_bg_color #313D38;
+@define-color dialog_bg_color #2C3B34;
 @define-color dialog_fg_color #DFE8E0;
-@define-color thumbnail_bg_color #313D38;
+@define-color thumbnail_bg_color #2C3B34;
 @define-color thumbnail_fg_color #DFE8E0;
-@define-color accent_bg_color #A9C6B7;
-@define-color accent_fg_color #26302D;
-@define-color accent_color #A9C6B7;
+@define-color accent_bg_color #A4CAB6;
+@define-color accent_fg_color #212F28;
+@define-color accent_color #A4CAB6;
 @define-color destructive_bg_color #D0DECF;
-@define-color destructive_fg_color #26302D;
+@define-color destructive_fg_color #212F28;
 @define-color destructive_color #D0DECF;
 @define-color error_bg_color #D0DECF;
-@define-color error_fg_color #26302D;
+@define-color error_fg_color #212F28;
 @define-color error_color #D0DECF;
-@define-color warning_bg_color #A9C6B7;
-@define-color warning_fg_color #26302D;
-@define-color warning_color #A9C6B7;
-@define-color success_bg_color #A9C6B7;
-@define-color success_fg_color #26302D;
-@define-color success_color #A9C6B7;
+@define-color warning_bg_color #A4CAB6;
+@define-color warning_fg_color #212F28;
+@define-color warning_color #A4CAB6;
+@define-color success_bg_color #A4CAB6;
+@define-color success_fg_color #212F28;
+@define-color success_color #A4CAB6;
 @define-color borders #52665B;
 @define-color unfocused_borders #52665B;
 @define-color shade_color rgba(0, 0, 0, 0.08);
-@define-color theme_bg_color #26302D;
+@define-color theme_bg_color #212F28;
 @define-color theme_fg_color #DFE8E0;
-@define-color theme_base_color #26302D;
+@define-color theme_base_color #212F28;
 @define-color theme_text_color #DFE8E0;
-@define-color theme_selected_bg_color #A9C6B7;
-@define-color theme_selected_fg_color #26302D;
-@define-color insensitive_bg_color #313D38;
+@define-color theme_selected_bg_color #A4CAB6;
+@define-color theme_selected_fg_color #212F28;
+@define-color insensitive_bg_color #2C3B34;
 @define-color insensitive_fg_color #B0C3B7;
-@define-color insensitive_base_color #313D38;
-@define-color theme_unfocused_bg_color #26302D;
+@define-color insensitive_base_color #2C3B34;
+@define-color theme_unfocused_bg_color #212F28;
 @define-color theme_unfocused_fg_color #B0C3B7;
-@define-color theme_unfocused_base_color #26302D;
+@define-color theme_unfocused_base_color #212F28;
 @define-color theme_unfocused_text_color #B0C3B7;
 @define-color theme_unfocused_selected_bg_color #46594F;
 @define-color theme_unfocused_selected_fg_color #DFE8E0;
-@define-color link_color #A9C6B7;
+@define-color link_color #A4CAB6;
 @define-color visited_link_color #B0C3B7;
 
 selection { background-color: #46594F; color: #F0F5EE; }
-button.suggested-action { background-color: #A9C6B7; color: #26302D; }
-button.suggested-action:hover { background-color: #DFE8E0; color: #26302D; }
-button.destructive-action { background-color: #D0DECF; color: #26302D; }
+button.suggested-action { background-color: #A4CAB6; color: #212F28; }
+button.suggested-action:hover { background-color: #DFE8E0; color: #212F28; }
+button.destructive-action { background-color: #D0DECF; color: #212F28; }
