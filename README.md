@@ -21,7 +21,7 @@ Use `omarchy theme bg next` to cycle through the logo, wordmark, and background-
 ## The theme
 
 - Misted glass with Omarchy artwork traced through the condensation, plus a background-only variant.
-- A transparent top bar with text selected from the theme's palette.
+- A softly tinted top bar that keeps its text readable over the bright sky.
 - Deep green-gray surfaces, sage accents, and soft ivory text.
 - Translucent menus and shell panels, coordinated terminal and editor colors, GTK 3 / GTK 4 styling, and Adwaita icons.
 
