@@ -34,7 +34,7 @@ omarchy theme remove cool-dawn
 - A foggy forest at dawn seen through misted glass, with condensation and drops on the pane.
 - A top bar in the same deep green-gray as the windows.
 - Deep green-gray surfaces, sage accents, soft ivory text, and pale sun-gold for warnings.
-- Translucent menus and shell panels, coordinated terminal and editor colors, GTK 3 / GTK 4 styling, and Adwaita icons.
+- Translucent menus and shell panels, coordinated terminal and editor colors, GTK 3 / GTK 4 styling, and Yaru icons with sage folders.
 
 ## Wallpapers
 
