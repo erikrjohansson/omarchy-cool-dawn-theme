@@ -2,7 +2,7 @@
 
 Soft morning light through misted glass, with muted sage accents and a coordinated dark interface.
 
-![Cool Dawn desktop preview](preview.png?v=2026-10-11)
+![Cool Dawn desktop preview](preview.png?v=2026-10-12)
 
 ## Install
 
@@ -57,4 +57,4 @@ Two 6K (6016 × 3384) wallpapers: misted glass (default) and a misty mountain sl
 
 ## License
 
-[MIT](LICENSE) · [Omarchy artwork attribution](THIRD_PARTY_NOTICES.md)
+[MIT](LICENSE)
