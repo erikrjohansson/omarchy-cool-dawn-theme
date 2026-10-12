@@ -38,16 +38,16 @@ omarchy theme remove cool-dawn
 
 ## Wallpapers
 
-Two 6K (6016 × 3384) wallpapers: misted glass (default) and a misty mountain slope. Switch between them with `omarchy theme bg next`, or from the Omarchy menu under Style → Background.
+Two 6K (6016 × 3384) wallpapers: misted glass (default) and a misty lake. Switch between them with `omarchy theme bg next`, or from the Omarchy menu under Style → Background.
 
 <table>
   <tr>
     <td width="50%"><img src="previews/misted.jpg" alt="Misted glass wallpaper, Cool Dawn"></td>
-    <td width="50%"><img src="previews/mountain.jpg" alt="Mountain wallpaper, Cool Dawn"></td>
+    <td width="50%"><img src="previews/lake.jpg" alt="Lake wallpaper, Cool Dawn"></td>
   </tr>
   <tr>
     <td align="center">Misted glass</td>
-    <td align="center">Mountain</td>
+    <td align="center">Lake</td>
   </tr>
 </table>
 
