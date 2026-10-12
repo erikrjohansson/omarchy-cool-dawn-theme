@@ -2,7 +2,7 @@
 
 Soft morning light through misted glass, with muted sage accents and a coordinated dark interface.
 
-![Cool Dawn desktop preview](preview.png?v=2026-10-12)
+![Cool Dawn desktop preview](preview.png?v=2026-10-12b)
 
 ## Install
 
@@ -32,7 +32,7 @@ omarchy theme remove cool-dawn
 ## The theme
 
 - A foggy forest at dawn seen through misted glass, with condensation and drops on the pane.
-- A softly tinted top bar that keeps its text readable over the bright sky.
+- A top bar in the same deep green-gray as the windows.
 - Deep green-gray surfaces, sage accents, soft ivory text, and pale sun-gold for warnings.
 - Translucent menus and shell panels, coordinated terminal and editor colors, GTK 3 / GTK 4 styling, and Adwaita icons.
 

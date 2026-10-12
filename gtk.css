@@ -30,15 +30,15 @@
 @define-color accent_bg_color #A4CAB6;
 @define-color accent_fg_color #212F28;
 @define-color accent_color #A4CAB6;
-@define-color destructive_bg_color #D0DECF;
+@define-color destructive_bg_color #D9A39E;
 @define-color destructive_fg_color #212F28;
-@define-color destructive_color #D0DECF;
-@define-color error_bg_color #D0DECF;
+@define-color destructive_color #D9A39E;
+@define-color error_bg_color #D9A39E;
 @define-color error_fg_color #212F28;
-@define-color error_color #D0DECF;
-@define-color warning_bg_color #A4CAB6;
+@define-color error_color #D9A39E;
+@define-color warning_bg_color #E3D6A6;
 @define-color warning_fg_color #212F28;
-@define-color warning_color #A4CAB6;
+@define-color warning_color #E3D6A6;
 @define-color success_bg_color #A4CAB6;
 @define-color success_fg_color #212F28;
 @define-color success_color #A4CAB6;
@@ -66,4 +66,4 @@
 selection { background-color: #46594F; color: #F0F5EE; }
 button.suggested-action { background-color: #A4CAB6; color: #212F28; }
 button.suggested-action:hover { background-color: #DFE8E0; color: #212F28; }
-button.destructive-action { background-color: #D0DECF; color: #212F28; }
+button.destructive-action { background-color: #D9A39E; color: #212F28; }
